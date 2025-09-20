@@ -27,7 +27,7 @@ I believe that my ability to learn and acquire new skills will help me become an
 * Editors: VS Code, Visual Studio, IntelliJ IDEA, PyCharm community.
 * Adobe Photoshop, CorelDRAW, Macromedia Flesh.
 
-## Code Examples
+## Code Example
 
 *RGB To Hex Conversion from **Codewars***
 
@@ -55,6 +55,4 @@ function rgb(r, g, b) {
 + **Belarusian** - native speaker.
 + **English** - B1.
 
-<br><a href="https://rs.school/"><img src="https://elvinyeka.github.io/rsschool-cv/img/rs_school_js.svg" 
-     width="110" 
-     alt="https://rs.school/"></a>
+<br><a href="https://rs.school/"><img src="https://elvinyeka.github.io/rsschool-cv/img/rs_school_js.svg" width="110" alt="https://rs.school/"></a>
