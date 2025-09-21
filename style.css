@@ -1,0 +1,146 @@
+body{
+    background-color:rgb(254, 207, 248);
+}
+.inconsolata {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+}
+header{
+    font-size: 40px;
+    margin: 20px;
+}
+.container{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 110px;
+}
+.null{
+    display: flex;
+    flex-direction: column;
+    color: beige;
+    width: 40%;
+    margin: 30px;
+}
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  
+}
+.ignor{
+    animation: none;
+    background-color: black;
+    border: none;
+    color: beige;
+}
+.ignor:hover{
+    animation: none;
+    background-color: black;
+    border: none;
+}
+.height{
+    line-height: 40px;
+}
+.year:hover{
+    text-decoration: underline;
+    color:rgb(239, 58, 188);
+    font-size: 26px;
+    font-style: italic;
+}
+.year{
+    text-align: center;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+.footer__rsschool{
+    background-color: black;
+    border: none;
+}
+.footer__rsschool:hover{
+    background-color: black;
+    border: none;
+    animation: none;
+}
+h2{
+    font-size: 30px;
+}
+@keyframes color-change{
+0%{
+    background-color:pink;
+}
+50%{
+    background-color: rgb(94, 94, 238);
+}
+100%{
+    background-color:white;
+}
+}
+img:hover{
+    animation: color-change 4s infinite;
+}
+a:hover{
+    animation: color-change 4s infinite;
+    border: solid rgb(249, 244, 244) 2px;
+    border-radius: 20%;
+    background-color: rgb(200, 152, 244);
+}
+.second:hover{
+    animation: color-change 4s infinite;
+}
+a{
+    text-decoration: none;
+    /*border: solid rgb(249, 244, 244) 2px;
+    border-radius: 20%;
+    background-color: rgb(200, 152, 244);*/
+    color:rgb(45, 51, 57);
+    padding: 3px;
+    padding-right: 12px;
+}
+nav>div{
+    padding: 0;
+    margin: 0;
+}
+article{
+    margin: 60px;
+}
+p, pre, ul{
+    font-size: 22px;
+}
+.first{
+    background-color: rgb(253, 235, 247);
+    margin: 17px;
+   
+   display: flex;
+   flex-direction: column;
+}
+.second{
+    background-color: azure;
+    width: 4%;
+    margin-right: 15px;
+}
+h2:hover{
+    text-decoration: overline;
+}
+nav{
+    text-align: right;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+img{
+    border-radius: 90%;
+    width: 350px;
+    height: 350px;
+    border: dashed rgb(255, 194, 80) 15px;
+    padding: 15px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
