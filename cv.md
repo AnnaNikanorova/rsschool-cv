@@ -4,8 +4,8 @@
 ## Contact info
 
 + **Phone:** +375-(29)-233-07-27  
-+ **E-mail:** anyta14022006@gmail.com  
 + **Telegram:** @Nikanorova_Anna  
++ **E-mail:** anyta14022006@gmail.com  
 + **GitHub:** [AnnaNikanorova](https://github.com/AnnaNikanorova)  
 + **LinkedIn:** [анна-никанорова](http://linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BD%D0%B8%D0%BA%D0%B0%D0%BD%D0%BE%D1%80%D0%BE%D0%B2%D0%B0-089197330)
 
